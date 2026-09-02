@@ -1,0 +1,16 @@
+{
+  "name": "void-private-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VOID Private Server Growtopia-inspired web portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
